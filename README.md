@@ -14,7 +14,7 @@ Some files are too large for GitHub and are not included in this repository. You
 - `models/saved_models/final_model.pt` (1.25 GB)
 - `models/saved_models/best_model.pt`
 
-You can download these files from [Google Drive/Hugging Face Hub] (add your preferred sharing link).
+You can download these files from [Google Drive/Hugging Face Hub]
 
 ## Setup Instructions
 
@@ -38,7 +38,3 @@ You can download these files from [Google Drive/Hugging Face Hub] (add your pref
    source cv_env/bin/activate  # On Windows: .\cv_env\Scripts\activate
    pip install -r requirements.txt
    ```
-
-## Usage
-
-[Add usage instructions here]
