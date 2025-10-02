@@ -1,0 +1,38 @@
+# PyTorch with CUDA support (install separately - see below)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers and ML
+transformers==4.30.0
+datasets==2.18.0
+accelerate==0.28.0
+scikit-learn==1.4.2
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# NLP
+nltk==3.8.1
+spacy>=3.7.0
+
+# Resume parsing
+pyresparser
+pdfminer.six>=20221105
+python-docx>=1.1.0
+xlrd>=2.0.1
+
+# Web framework (optional)
+flask==3.0.3
+flask-cors==4.0.0
+
+# Dataset download
+kagglehub>=0.2.0
+
+# Utilities
+tqdm>=4.66.0
